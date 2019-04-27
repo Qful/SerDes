@@ -1,17 +1,22 @@
-﻿# [manor](https://github.com/lite-life/manor) 
- 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
+﻿# [USB HUB](https://github.com/qful/USBHUB) 
+[![sites](qful/qful.png)](http://www.qful.net)
 ####  qitas@qitas.cn
+## [简介](https://github.com/qful/USBHUB) 
 
-## [简介](https://github.com/lite-life/manor/wiki) 
+通过USB外置扩展的HUB设备，具备多种主机设备适配能力
 
-庄园生活管理工程，负责大型个人空间的管理，户外户内一体化智能化平台化，人与自然的和谐相处之道。
+### [工程目录](https://github.com/qful)
 
-户外网络管理设备https://github.com/lite-life/PContro
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
+
+### [单元组件](https://github.com/qful)
 
 
-关于更专业的农业生产服务系统可查看 arachn.com，相关开源服务https://github.com/arachn
+### [Q资源依赖](https://github.com/qful)
 
-
-##  www.litelife.cc     
-
+- [Q软件](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
