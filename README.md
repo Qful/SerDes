@@ -1,19 +1,11 @@
-﻿# [USB HUB](https://github.com/qful/USBHUB) 
+﻿# [extHUB](https://github.com/qful/extHUB) 
 [![sites](qful/qful.png)](http://www.qful.net)
 ####  qitas@qitas.cn
-## [简介](https://github.com/qful/USBHUB) 
+## [简介](https://github.com/qful/extHUB) 
 
-通过USB外置扩展的HUB设备，具备多种主机设备适配能力，HUB集成充电宝功能，扩展实用价值，同时为多个外设提供价值。
+extHUB是Qful项目中外置板卡工程，通过extHUB可以级联调用多台PC设备及相关的资源，和intHUB定位不同互为补充，同时也是几大计算设备的强力支持。
 
-- USB通信功能HUB
-- PD模式供电转换
-- 音频类设备接口
-- 视频类设备接口
-
-HUB通过单type c和键盘设备连接，接口集成视频接口和USB高速通信接口以及PD模式供电，同时设备需要维持和多PC间的USB HID外设连接，避免反复发现过程。
-
-
-
+extHUB将各种输入输出进行汇集，可以服务一台主机，也可以服务多台主机，但设备偏向服务多台主机设备，形成资源的互补和增强。
 
 ### [工程目录](https://github.com/qful)
 
@@ -21,12 +13,11 @@ HUB通过单type c和键盘设备连接，接口集成视频接口和USB高速�
 - [资源](src/)
 - [工程](project/)
 
-### [单元组件](https://github.com/qful)
-
-
-### [Q资源依赖](https://github.com/qful)
+### [Q资源](https://github.com/qful)
 
 - [Q软件](https://github.com/OS-Q)
 - [Q硬件](https://github.com/sochub)
 - [Q智慧](https://github.com/tfzoo)
 - [Q品质](https://github.com/qitas)
+
+### www.Qful.net
