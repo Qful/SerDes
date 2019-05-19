@@ -12,23 +12,21 @@ extHUB的一个应用场景是在外设资源有限，例如显示器和键鼠�
 设备的形态可以是传统的HUB形态，也可以被外部的各种设备集成在内部，实现更多途径的指令切换，所以本仓库用于设计相应的核心单元，完成核心的控制和输入输出管理，更方便的被各种网络整合为一部分，也方便接入各种智能化的管理网络。
 
 板卡核心功能：
-* 显示接口的多入一出
-* 键盘鼠标的一入多出
-* USB接口的多入多出
-* 设备的USB通信监控
-* USB网络设备和网关
+
+* KVM管理
+* 外设物联网关，设备枚举
 
 ### [工程目录](https://github.com/Qful)
 
-- [文档](docs/)
-- [资源](src/)
-- [工程](project/)
+* [文档](docs/)
+* [资源](src/)
+* [KVM](KVM/)
 
 ### [Q资源](https://github.com/Qful)
 
-- [Q软件](https://github.com/OS-Q)
-- [Q硬件](https://github.com/sochub)
-- [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
+* [Q软件](https://github.com/OS-Q)
+* [Q硬件](https://github.com/sochub)
+* [Q智慧](https://github.com/tfzoo)
+* [Q品质](https://github.com/qitas)
 
 ### www.Qful.net
